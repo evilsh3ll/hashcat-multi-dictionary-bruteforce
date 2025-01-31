@@ -32,7 +32,7 @@ output_reports="/WIFI_Cracking/Hashcat Reports/${file_name_input}_${date_format}
 ### Running the Script
 ```sh
 chmod +x wifi_cracking.sh
-./hashcat-multi-bruteforce.sh
+./hashcat-multi-cracking.sh
 ```
 ## Disclaimer ⚠️
 This script is intended for educational and authorized security testing purposes only. Unauthorized use against networks you do not own or have explicit permission to test is illegal and unethical. Always follow ethical hacking practices.
