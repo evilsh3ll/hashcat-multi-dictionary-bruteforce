@@ -31,7 +31,7 @@ output_reports="/WIFI_Cracking/Hashcat Reports/${file_name_input}_${date_format}
 ```
 ### Running the Script
 ```sh
-chmod +x wifi_cracking.sh
+chmod +x hashcat-multi-cracking.sh
 ./hashcat-multi-cracking.sh
 ```
 ## Disclaimer ⚠️
